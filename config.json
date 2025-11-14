@@ -1,0 +1,40 @@
+{
+	"title": "Logistik",
+	"description": "This repo contains translations of Logistik, you can find the game on [Steam](https://store.steampowered.com/app/3928180/Logistik/).",
+	"languages": {
+		"ar":"العربية",
+		"bg":"български език",
+		"cs":"čeština",
+		"da":"Dansk",
+		"de":"Deutsch",
+		"el":"Ελληνικά",
+		"en":"English",
+		"es":"Español",
+		"fi":"Suomi",
+		"fr":"Francais",
+		"hu":"Magyar",
+		"it":"Italiano",
+		"ja":"日本語",
+		"ko": "한국어",
+		"nl":"Nederlands",
+		"no":"Norsk",
+		"pl":"Polski",
+		"pt-BR":"Português-Brasil",
+		"pt":"Português",
+		"ro":"Română",
+		"ru":"Русский",
+		"sv":"Svenska",
+		"th":"ไทย",
+		"tr":"Türkçe",
+		"uk":"Українська",
+		"vi":"Tiếng Việt",
+		"zh-CN":"简体中文",
+		"zh-TW":"繁體中文"
+	},
+	"files": [
+		"achievements",
+		"menu",
+		"toolbelt"
+	],
+	"steamTranslationThread": "https://steamcommunity.com/app/3928180/discussions/0/680733951028046258"
+}

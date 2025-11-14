@@ -1,0 +1,25 @@
+name: Rebuild README
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  copy-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Copy files
+        run: |
+          node .github/workflows/generate_readme.js
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "Update README.md"
