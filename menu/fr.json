@@ -1,2 +1,9 @@
 {
+  "new": "Nouvelle partie",
+  "continue": "Continuer",
+  "map-editor": "Éditeur de cartes",
+  "settings": "Paramètres",
+  "credits": "Crédits",
+  "quit": "Quitter le jeu",
+  "back_to_menu": "Retourner au menu"
 }

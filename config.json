@@ -33,6 +33,7 @@
 	},
 	"files": [
 		"achievements",
+		"credits",
 		"menu",
 		"toolbelt"
 	],
