@@ -33,6 +33,7 @@
 	},
 	"files": [
 		"achievements",
+		"gameplay-errors",
 		"credits",
 		"menu",
 		"toolbelt"
