@@ -33,10 +33,11 @@
 	},
 	"files": [
 		"achievements",
-		"gameplay-errors",
 		"credits",
+		"gameplay-errors",
 		"menu",
-		"toolbelt"
+		"toolbelt",
+		"ui"
 	],
 	"steamTranslationThread": "https://steamcommunity.com/app/3928180/discussions/0/680733951028046258"
 }
