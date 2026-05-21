@@ -1,4 +1,5 @@
 {
+	"train-number-format": "No. {{trainNumber, string}}",
 	"train-type-freight": "Freight",
 	"train-type-passenger": "Passenger"
 }
