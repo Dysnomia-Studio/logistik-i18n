@@ -2,8 +2,11 @@
   "new": "Nouvelle partie",
   "continue": "Continuer",
   "map-editor": "Éditeur de cartes",
+  "wishlist_on_steam": "Ajouter le jeu à votre liste de souhaits!",
   "settings": "Paramètres",
   "credits": "Crédits",
   "quit": "Quitter le jeu",
-  "back_to_menu": "Retourner au menu"
+  "back_to_menu": "Retourner au menu",
+  "evolving_demo_message": "Bienvenue sur <b>la démo de Logistik !</b><br />\n<br />\nCette démo, qui est en constante évolution, constitue une <b>version limitée</b> et un <b>work in progress</b> de ce que sera le jeu lors de sa sortie. Vous verrez plusieurs mises à jour au fur et à mesure que le développement avancera. Ces mises à jour me permettront de tester de nouvelles fonctionnalités, de corriger des bugs et d’améliorer l’expérience de jeu.<br />\n<br />\nN'hésitez pas à signaler tout problème ou à partager vos commentaires sur <b>Discord</b>, sur les <b>forums Steam</b> ou dans les <b>commentaires Itch.io</b> dédiés à cette démo.<br />\n<br />\nJe ne peux pas promettre de tout corriger immédiatement, mais je lirai et prendrai en compte tous vos commentaires, qui seront susceptibles d'être ajoutés à ma <RoadMapLink>feuille de route</RoadMapLink> :)<br />\n<br />\nPassez un bon moment avec le jeu,<br />\nAxel « Elanis »",
+  "evolving_demo_message_button": "Jouer au jeu"
 }
