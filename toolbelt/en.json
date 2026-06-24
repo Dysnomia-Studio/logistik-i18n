@@ -2,7 +2,8 @@
 	"destroy": "Destroy",
 	"doublerailwayupgrader": "Upgrade to Double Railway",
 	"forest": "Forest",
-	"planner": "Planner",
+	"plannercreate": "Planner",
+	"plannerlist": "Planned trains list",
 	"railway": "Railway",
 	"river": "River",
 	"station": "Station"

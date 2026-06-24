@@ -2,7 +2,8 @@
 	"destroy": "Détruire",
 	"doublerailwayupgrader": "Doubler le nombre de rails",
 	"forest": "Forêt",
-	"planner": "Planification",
+	"plannercreate": "Planification",
+	"plannerlist": "List des trains planifiés",
 	"railway": "Rail",
 	"river": "Rivière",
 	"station": "Gare"
