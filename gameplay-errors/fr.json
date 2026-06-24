@@ -1,3 +1,6 @@
 {
-	"no-enough-money": "Pas assez d'argent pour cela!"
+    "no-enough-money": "Pas assez d'argent pour cela!",
+    "station-too-close-to-another": "Impossible de créer une gare si proche d'une autre gare.",
+    "planner-same-building": "Il n'est pas possible de choisir deux fois de suite le même bâtiment.",
+    "planner-no-tracks-between-stations": "Aucune chemin n'existe entre les deux gares."
 }

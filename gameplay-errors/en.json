@@ -1,3 +1,6 @@
 {
-	"no-enough-money": "No enough money!"
+    "no-enough-money": "No enough money!",
+    "station-too-close-to-another": "You can't add a station too close to another one!",
+    "planner-same-building": "Cannot choose the same building twice in a row.",
+    "planner-no-tracks-between-stations": "No track exists between both stations."
 }

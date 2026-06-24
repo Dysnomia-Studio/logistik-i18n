@@ -1,5 +1,21 @@
 {
-	"train-number-format": "N°{{trainNumber, string}}",
-	"train-type-freight": "Fret",
-	"train-type-passenger": "Passager"
+  "train-number-format": "N°{{trainNumber}}",
+  "train-type-freight": "Fret",
+  "train-type-passenger": "Passager",
+  "money-format": "{{amount}}$",
+  "day-format": "Jour: {{amount}}",
+  "train-planner-reward": "Récompense",
+  "train-planner-min-travel-time": "Temps minimum de trajet",
+  "minute-format": "{{amount}} min.",
+  "train-planner-stations-header": "Gares",
+  "train-planner-stations-list-empty": "Aucune gare",
+  "train-planner-stations-additional-station-hint": "Cliquer sur une gare afin de l'ajouter au chemin.",
+  "train-planner-footer-create": "Créer",
+  "train-planner-footer-edit": "✎ Éditer",
+  "train-planner-footer-remove": "Supprimer",
+  "train-planner-footer-cancel-changes": "Annuler les changements",
+  "train-planner-footer-save": "Sauvegarder les changements",
+  "map-generation-error": "Erreur lors de la génération de la carte",
+  "loading": "Chargement en cours...",
+  "start-game": "Jouer"
 }

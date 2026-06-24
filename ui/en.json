@@ -1,5 +1,21 @@
 {
-	"train-number-format": "No. {{trainNumber, string}}",
-	"train-type-freight": "Freight",
-	"train-type-passenger": "Passenger"
+  "train-number-format": "No. {{trainNumber}}",
+  "train-type-freight": "Freight",
+  "train-type-passenger": "Passenger",
+  "money-format": "${{amount}}",
+  "day-format": "Day: {{amount}}",
+  "train-planner-reward": "Reward",
+  "train-planner-min-travel-time": "Min travel time",
+  "minute-format": "{{amount}} min.",
+  "train-planner-stations-header": "Stations",
+  "train-planner-stations-list-empty": "No station in path",
+  "train-planner-stations-additional-station-hint": "Click on an additional station to add it to the path.",
+  "train-planner-footer-create": "Create",
+  "train-planner-footer-edit": "✎ Edit",
+  "train-planner-footer-remove": "Remove",
+  "train-planner-footer-cancel-changes": "Cancel changes",
+  "train-planner-footer-save": "Save changes",
+  "map-generation-error": "Error when generating the map",
+  "loading": "Loading ...",
+  "start-game": "Start Game"
 }

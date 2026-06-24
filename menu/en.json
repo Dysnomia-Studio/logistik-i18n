@@ -8,5 +8,18 @@
   "quit": "Quit Game",
   "back_to_menu": "Back to Menu",
   "evolving_demo_message": "Welcome to <b>Logistik Demo!</b><br />\n<br />\nThis demo is evolving and represents a <b>limited version</b> and a <b>work-in-progress</b> of what the game will be at its release. You'll see multiple updates as development progresses. These updates will allow me to test new features, fix bugs, and improve player experience.<br />\n<br />\nFeel free to report any issues or share feedback on <b>Discord</b>, on the <b>Steam Forums</b> or in <b>Itch.io comments</b> for this demo.<br />\n<br />\nI can't promise I will fix everything immediately, but it will definitely be read, addressed and potentially added to my <RoadMapLink>Roadmap</RoadMapLink> :)<br />\n<br />\nEnjoy the game,<br />\nAxel \"Elanis\"",
-  "evolving_demo_message_button": "Play the game"
+  "evolving_demo_message_button": "Play the game",
+  "settings-language": "Language:",
+  "settings-translation-link": "Participate in translations",
+  "new-game-map-type": "Choose your map type:",
+  "new-game-map-type-random": "Random",
+  "new-game-map-type-official": "Official Maps",
+  "new-game-map-type-challenge": "Challenge",
+  "new-game-map-type-community": "Community Maps",
+  "new-game-random-header": "Random map",
+  "new-game-random-map-size": "Map size",
+  "new-game-random-stations-amount": "Stations amount",
+  "new-game-official-header": "Official Maps",
+  "new-game-challenge-header": "Challenge map",
+  "new-game-community-header": "Community Maps"
 }

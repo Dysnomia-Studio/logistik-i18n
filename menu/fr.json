@@ -8,5 +8,18 @@
   "quit": "Quitter le jeu",
   "back_to_menu": "Retourner au menu",
   "evolving_demo_message": "Bienvenue sur <b>la démo de Logistik !</b><br />\n<br />\nCette démo, qui est en constante évolution, constitue une <b>version limitée</b> et un <b>work in progress</b> de ce que sera le jeu lors de sa sortie. Vous verrez plusieurs mises à jour au fur et à mesure que le développement avancera. Ces mises à jour me permettront de tester de nouvelles fonctionnalités, de corriger des bugs et d’améliorer l’expérience de jeu.<br />\n<br />\nN'hésitez pas à signaler tout problème ou à partager vos commentaires sur <b>Discord</b>, sur les <b>forums Steam</b> ou dans les <b>commentaires Itch.io</b> dédiés à cette démo.<br />\n<br />\nJe ne peux pas promettre de tout corriger immédiatement, mais je lirai et prendrai en compte tous vos commentaires, qui seront susceptibles d'être ajoutés à ma <RoadMapLink>feuille de route</RoadMapLink> :)<br />\n<br />\nPassez un bon moment avec le jeu,<br />\nAxel « Elanis »",
-  "evolving_demo_message_button": "Jouer au jeu"
+  "evolving_demo_message_button": "Jouer au jeu",
+  "settings-language": "Langue:",
+  "settings-translation-link": "Participer aux traductions",
+  "new-game-map-type": "Choisir le type de carte:",
+  "new-game-map-type-random": "Aléatoire",
+  "new-game-map-type-official": "Cartes officielles",
+  "new-game-map-type-challenge": "Défi",
+  "new-game-map-type-community": "Cartes communautaires",
+  "new-game-random-header": "Carte aléatoire",
+  "new-game-random-map-size": "Taille de la carte",
+  "new-game-random-stations-amount": "Nombre de gares",
+  "new-game-official-header": "Cartes officielles",
+  "new-game-challenge-header": "Cartes de défis",
+  "new-game-community-header": "Cartes communautaires"
 }
