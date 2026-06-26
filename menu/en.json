@@ -12,14 +12,10 @@
   "settings-language": "Language:",
   "settings-translation-link": "Participate in translations",
   "new-game-map-type": "Choose your map type:",
-  "new-game-map-type-random": "Random",
+  "new-game-map-type-endless": "Endless",
   "new-game-map-type-official": "Official Maps",
-  "new-game-map-type-challenge": "Challenge",
+  "new-game-map-type-challenge": "Challenges",
   "new-game-map-type-community": "Community Maps",
-  "new-game-random-header": "Random map",
-  "new-game-random-map-size": "Map size",
-  "new-game-random-stations-amount": "Stations amount",
-  "new-game-official-header": "Official Maps",
-  "new-game-challenge-header": "Challenge map",
-  "new-game-community-header": "Community Maps"
+  "new-game-map-type-available-soon": "Work in progress. Will be available soon!",
+  "start-game": "Start Game"
 }

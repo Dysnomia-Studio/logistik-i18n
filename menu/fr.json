@@ -12,14 +12,10 @@
   "settings-language": "Langue:",
   "settings-translation-link": "Participer aux traductions",
   "new-game-map-type": "Choisir le type de carte:",
-  "new-game-map-type-random": "Aléatoire",
+  "new-game-map-type-endless": "Sans fin",
   "new-game-map-type-official": "Cartes officielles",
   "new-game-map-type-challenge": "Défi",
   "new-game-map-type-community": "Cartes communautaires",
-  "new-game-random-header": "Carte aléatoire",
-  "new-game-random-map-size": "Taille de la carte",
-  "new-game-random-stations-amount": "Nombre de gares",
-  "new-game-official-header": "Cartes officielles",
-  "new-game-challenge-header": "Cartes de défis",
-  "new-game-community-header": "Cartes communautaires"
+  "new-game-map-type-available-soon": "En cours de developpement. Ce sera bientôt disponible!",
+  "start-game": "Jouer"
 }

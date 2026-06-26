@@ -16,6 +16,5 @@
   "train-planner-footer-cancel-changes": "Annuler les changements",
   "train-planner-footer-save": "Sauvegarder les changements",
   "map-generation-error": "Erreur lors de la génération de la carte",
-  "loading": "Chargement en cours...",
-  "start-game": "Jouer"
+  "loading": "Chargement en cours..."
 }
