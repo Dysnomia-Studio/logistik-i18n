@@ -7,6 +7,8 @@
   "train-planner-reward": "Récompense",
   "train-planner-min-travel-time": "Temps minimum de trajet",
   "minute-format": "{{amount}} min.",
+  "train-planner-list-header": "Circulations planifiées",
+  "train-planner-list-empty": "Aucune circulation planifiée",
   "train-planner-stations-header": "Gares",
   "train-planner-stations-list-empty": "Aucune gare",
   "train-planner-stations-additional-station-hint": "Cliquer sur une gare afin de l'ajouter au chemin.",

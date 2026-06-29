@@ -7,6 +7,8 @@
   "train-planner-reward": "Reward",
   "train-planner-min-travel-time": "Min travel time",
   "minute-format": "{{amount}} min.",
+  "train-planner-list-header": "Planned journeys",
+  "train-planner-list-empty": "No planned journey",
   "train-planner-stations-header": "Stations",
   "train-planner-stations-list-empty": "No station in path",
   "train-planner-stations-additional-station-hint": "Click on an additional station to add it to the path.",
