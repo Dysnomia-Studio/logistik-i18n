@@ -17,6 +17,7 @@
   "train-planner-footer-remove": "Remove",
   "train-planner-footer-cancel-changes": "Cancel changes",
   "train-planner-footer-save": "Save changes",
+  "train-planner-footer-list": "Back to the list",
   "map-generation-error": "Error when generating the map",
   "loading": "Loading ..."
 }

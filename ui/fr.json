@@ -17,6 +17,7 @@
   "train-planner-footer-remove": "Supprimer",
   "train-planner-footer-cancel-changes": "Annuler les changements",
   "train-planner-footer-save": "Sauvegarder les changements",
+  "train-planner-footer-list": "Retourner à la liste",
   "map-generation-error": "Erreur lors de la génération de la carte",
   "loading": "Chargement en cours..."
 }
