@@ -1,0 +1,9 @@
+{
+	"build-railway-between-two-cities-title": "Build a railway from {{fromStation}} to {{toStation}}",
+	"build-railway-between-two-cities-description": "There's been an increase in goods exchange from {{fromStation}} to {{toStation}}, building a railway between both those cities and creating a freight line may be very fruitful!",
+	"modifiers-header": "Modifiers:",
+	"modifiers-revenues-between-those-stations": "x{{modifier}} (revenue between those stations)",
+	"no-selected-quest": "No quest selected",
+	"reward": "Reward",
+	"tile-more": "More"
+}

@@ -1,0 +1,9 @@
+{
+	"build-railway-between-two-cities-title": "Construire une ligne ferroviaire reliant {{fromStation}} à {{toStation}}",
+	"build-railway-between-two-cities-description": "On constate une augmentation des échanges de marchandises entre {{fromStation}} et {{toStation}} ; la construction d'une ligne ferroviaire reliant ces deux villes et la mise en place d'une ligne de fret pourraient s'avérer très rentables !",
+	"modifiers-header": "Modificateurs:",
+	"modifiers-revenues-between-those-stations": "x{{modifier}} (revenu entre ces gares)",
+	"no-selected-quest": "Aucune quête selectionnée",
+	"reward": "Récompenses:",
+	"tile-more": "Plus"
+}
