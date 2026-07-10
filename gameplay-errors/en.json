@@ -1,6 +1,9 @@
 {
-    "no-enough-money": "No enough money!",
-    "station-too-close-to-another": "You can't add a station too close to another one!",
-    "planner-same-building": "Cannot choose the same building twice in a row.",
-    "planner-no-tracks-between-stations": "No track exists between both stations."
+  "no-enough-money": "No enough money!",
+  "station-too-close-to-another": "You can't add a station too close to another one!",
+  "planner-same-building": "Cannot choose the same building twice in a row.",
+  "planner-no-tracks-between-stations": "No track exists between both stations.",
+  "empty-train-number": "Error: train number shouldn't be empty",
+  "already-used-train-number": "Error: this train number has already been used",
+  "train-planner-no-track-selected": "Error: you should select at least two train stations"
 }

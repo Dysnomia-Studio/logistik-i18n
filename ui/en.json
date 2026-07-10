@@ -19,5 +19,6 @@
   "train-planner-footer-save": "Save changes",
   "train-planner-footer-list": "Back to the list",
   "map-generation-error": "Error when generating the map",
-  "loading": "Loading ..."
+  "loading": "Loading ...",
+  "train-planned": "Train has been planned!"
 }

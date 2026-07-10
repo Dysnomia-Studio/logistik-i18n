@@ -1,6 +1,9 @@
 {
-    "no-enough-money": "Pas assez d'argent pour cela!",
-    "station-too-close-to-another": "Impossible de créer une gare si proche d'une autre gare.",
-    "planner-same-building": "Il n'est pas possible de choisir deux fois de suite le même bâtiment.",
-    "planner-no-tracks-between-stations": "Aucune chemin n'existe entre les deux gares."
+  "no-enough-money": "Pas assez d'argent pour cela!",
+  "station-too-close-to-another": "Impossible de créer une gare si proche d'une autre gare.",
+  "planner-same-building": "Il n'est pas possible de choisir deux fois de suite le même bâtiment.",
+  "planner-no-tracks-between-stations": "Aucune chemin n'existe entre les deux gares.",
+  "empty-train-number": "Erreur: le numéro de train ne doit pas être vide ",
+  "already-used-train-number": "Erreur: ce numéro de train est déjà utilisé",
+  "train-planner-no-track-selected": "Erreur: vous devez choisir au moins deux gares"
 }
