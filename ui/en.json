@@ -20,5 +20,6 @@
   "train-planner-footer-list": "Back to the list",
   "map-generation-error": "Error when generating the map",
   "loading": "Loading ...",
-  "train-planned": "Train has been planned!"
+  "train-planned": "Train has been planned!",
+  "file-explorer-opened": "File explorer has been opened!"
 }

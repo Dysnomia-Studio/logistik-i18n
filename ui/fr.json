@@ -20,5 +20,6 @@
   "train-planner-footer-list": "Retourner à la liste",
   "map-generation-error": "Erreur lors de la génération de la carte",
   "loading": "Chargement en cours...",
-  "train-planned": "Le train a bien été planifié!"
+  "train-planned": "Le train a bien été planifié!",
+  "file-explorer-opened": "L'explorateur de fichier a été ouvert!"
 }
