@@ -8,6 +8,6 @@
   "tile-more": "More",
   "tutorial-direct-railway-title": "Tutorial #1 - Building a railroad line between two cities",
   "tutorial-direct-railway-description": "Welcome to Logistik!<br/>\n<br/>\nIn this game, you run a railroad company. Your goal is to grow your business by building railroad tracks and connecting stations with trains.<br/>\n<br/>\nTo get started, I’d like you to build a line between <b>{{fromStation}}</b> and <b>{{toStation}}</b>. To do this, use the \"Railway\" tool in the toolbar on the left (or the <kbd>R</kbd> key on your keyboard), then click on the two stations.",
-  "tutorial-planned-rolling-stock-title": "Tutoriel #2 - Linking two cities together",
+  "tutorial-planned-rolling-stock-title": "Tutorial #2 - Linking two cities together",
   "tutorial-planned-rolling-stock-description": "Now that <b>{{fromStation}}</b> and <b>{{toStation}}</b> are connected by a railroad line, it's time to run a train!<br/>\n<br/>\nTo do this, open the train scheduler in the left toolbar (or press the <kbd>P</kbd> key on your keyboard). Once the interface is open, click <b>{{fromStation}}</b> and then <b>{{toStation}}</b>. Finally, click the \"Create\" button."
 }
