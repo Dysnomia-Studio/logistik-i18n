@@ -5,5 +5,6 @@
   "planner-no-tracks-between-stations": "No track exists between both stations.",
   "empty-train-number": "Error: train number shouldn't be empty",
   "already-used-train-number": "Error: this train number has already been used",
-  "train-planner-no-track-selected": "Error: you should select at least two train stations"
+  "train-planner-no-track-selected": "Error: you should select at least two train stations",
+  "railway-invalid-angles": "Railway angles are invalid, trains could not travel on this."
 }
