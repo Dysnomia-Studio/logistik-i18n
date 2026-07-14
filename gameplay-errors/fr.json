@@ -6,5 +6,6 @@
   "empty-train-number": "Erreur: le numéro de train ne doit pas être vide ",
   "already-used-train-number": "Erreur: ce numéro de train est déjà utilisé",
   "train-planner-no-track-selected": "Erreur: vous devez choisir au moins deux gares",
-  "railway-invalid-angles": "Les angles des voies ferrées sont trop importants; les trains ne pourraient pas circuler dessus."
+  "railway-invalid-angles": "Les angles des voies ferrées sont trop importants; les trains ne pourraient pas circuler dessus.",
+  "railway-overlapping-station": "Les voies ferrée ne devraient pas passer à proximité de gares sans s'y arrêter"
 }
