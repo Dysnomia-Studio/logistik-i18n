@@ -17,5 +17,7 @@
   "new-game-map-type-challenge": "Challenges",
   "new-game-map-type-community": "Community Maps",
   "new-game-map-type-available-soon": "Work in progress. Will be available soon!",
-  "start-game": "Start Game"
+  "start-game": "Start Game",
+  "settings-fullscreen": "Fullscreen mode",
+  "settings-volume": "Volume:"
 }

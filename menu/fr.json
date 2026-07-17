@@ -17,5 +17,7 @@
   "new-game-map-type-challenge": "Défi",
   "new-game-map-type-community": "Cartes communautaires",
   "new-game-map-type-available-soon": "En cours de developpement. Ce sera bientôt disponible!",
-  "start-game": "Jouer"
+  "start-game": "Jouer",
+  "settings-fullscreen": "Mode plein écran",
+  "settings-volume": "Volume :"
 }
