@@ -1,7 +1,7 @@
 {
-  "game_by": "Game By",
-  "credits_by": "Credits By",
-  "translations": "Translations",
-  "music": "Music",
-  "playtesters_thanks": "Thanks for their playtest:"
+  "game_by": "Game by:",
+  "credits_by": "Credits by:",
+  "playtesters_thanks": "Thanks to everyone who helped playtest the game!",
+  "sounds_effects_by": "Sounds effects by:",
+  "translations": "Translations"
 }

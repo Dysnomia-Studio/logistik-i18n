@@ -1,7 +1,7 @@
 {
-  "game_by": "Jeu créé par",
-  "credits_by": "Crédits par",
-  "translations": "Traductions",
-  "music": "Musique",
-  "playtesters_thanks": "Merci à ces playtesteurs:"
+  "game_by": "Jeu créé par :",
+  "credits_by": "Crédits par :",
+  "playtesters_thanks": "Merci à tous ceux qui ont aidé à playtest le jeu!",
+  "sounds_effects_by": "Effets sonores par :",
+  "translations": "Traductions"
 }
