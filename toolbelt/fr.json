@@ -1,10 +1,11 @@
 {
-	"destroy": "Détruire",
-	"doublerailwayupgrader": "Doubler le nombre de rails",
-	"forest": "Forêt",
-	"plannercreate": "Planifier un train",
-	"plannerlist": "List des trains planifiés",
-	"railway": "Rail",
-	"river": "Rivière",
-	"station": "Gare"
+  "destroy": "Détruire",
+  "doublerailwayupgrader": "Doubler le nombre de rails",
+  "forest": "Forêt",
+  "plannercreate": "Planifier un train",
+  "plannerlist": "List des trains planifiés",
+  "railway": "Rail",
+  "river": "Rivière",
+  "station": "Gare",
+  "water": "Plan d'eau"
 }

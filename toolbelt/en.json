@@ -1,10 +1,11 @@
 {
-	"destroy": "Destroy",
-	"doublerailwayupgrader": "Upgrade to Double Railway",
-	"forest": "Forest",
-	"plannercreate": "Plan a train",
-	"plannerlist": "Planned trains list",
-	"railway": "Railway",
-	"river": "River",
-	"station": "Station"
+  "destroy": "Destroy",
+  "doublerailwayupgrader": "Upgrade to Double Railway",
+  "forest": "Forest",
+  "plannercreate": "Plan a train",
+  "plannerlist": "Planned trains list",
+  "railway": "Railway",
+  "river": "River",
+  "station": "Station",
+  "water": "Water body"
 }
