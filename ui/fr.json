@@ -40,5 +40,7 @@
   "planned-train-removal-modal-title": "Suppression de trajet",
   "planned-train-removal-modal-message": "Voulez-vous vraiment supprimer ce trajet?",
   "modal-yes": "Oui",
-  "modal-no": "Non"
+  "modal-no": "Non",
+  "demo-quit-game-modal-title": "Quitter la partie (démo)",
+  "demo-quit-game-modal-message": "Dans cette démo, aucun processus de sauvegarde n'est présent. Quitter la partie est définitif. Voulez-vous continuer?"
 }
