@@ -21,5 +21,20 @@
   "map-generation-error": "Error when generating the map",
   "loading": "Loading ...",
   "train-planned": "Train has been planned!",
-  "file-explorer-opened": "File explorer has been opened!"
+  "file-explorer-opened": "File explorer has been opened!",
+  "rolling-stock-summary-locomotives": "Locomotives",
+  "rolling-stock-summary-used-locomotives": "Used locomotives: {{amount}}",
+  "rolling-stock-summary-available-locomotives": "Available ones: {{amount}}",
+  "rolling-stock-summary-buy-locomotives": "Buy additional locomotives",
+  "rolling-stock-summary-wagons": "Wagons",
+  "rolling-stock-summary-used-wagons": "Used wagons: {{amount}}",
+  "rolling-stock-summary-available-wagons": "Available ones: {{amount}}",
+  "rolling-stock-summary-buy-wagons": "Buy additional wagons",
+  "rolling-stock-summary-cars": "Cars",
+  "rolling-stock-summary-used-cars": "Used cars: {{amount}}",
+  "rolling-stock-summary-available-cars": "Available ones: {{amount}}",
+  "rolling-stock-summary-buy-cars": "Buy additional cars",
+  "rolling-stock-summary-buy-tooltip": "Buy more",
+  "rolling-stock-summary-modal-buy-title": "Buy more vehicles",
+  "rolling-stock-summary-buy-one-for": "Buy an additional one for {{money}}"
 }
