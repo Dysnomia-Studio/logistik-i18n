@@ -36,5 +36,9 @@
   "rolling-stock-summary-buy-cars": "Acheter des voitures supplémentaires",
   "rolling-stock-summary-buy-tooltip": "Acheter plus",
   "rolling-stock-summary-modal-buy-title": "Acheter plus de véhicules",
-  "rolling-stock-summary-buy-one-for": "En acheter un de plus pour {{money}}"
+  "rolling-stock-summary-buy-one-for": "En acheter un de plus pour {{money}}",
+  "planned-train-removal-modal-title": "Suppression de trajet",
+  "planned-train-removal-modal-message": "Voulez-vous vraiment supprimer ce trajet?",
+  "modal-yes": "Oui",
+  "modal-no": "Non"
 }

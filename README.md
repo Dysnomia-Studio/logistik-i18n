@@ -12,8 +12,8 @@ This repo contains translations of Logistik, you can find the game on [Steam](ht
 
  |	Language |	Percentage |	ui |
  |	--- |	--- |	--- |
- |	English |	100% |	38/38 |
- |	Francais |	100% |	38/38 |
+ |	English |	100% |	42/42 |
+ |	Francais |	100% |	42/42 |
 
 
 ## How to contribute ?
