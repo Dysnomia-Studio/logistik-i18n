@@ -8,5 +8,8 @@
   "train-planner-no-track-selected": "Erreur: vous devez choisir au moins deux gares.",
   "railway-invalid-angles": "Les angles des voies ferrées sont trop importants; les trains ne pourraient pas circuler dessus.",
   "railway-overlapping-station": "Les voies ferrée ne doivent pas passer à proximité de gares sans s'y arrêter.",
-  "railway-overlapping-water-body": "Les voies ferrée ne doivent pas passer au dessus de plans d'eau."
+  "railway-overlapping-water-body": "Les voies ferrée ne doivent pas passer au dessus de plans d'eau.",
+  "train-planner-no-enough-locomotives-available": "Erreur: il n'y a pas assez de locomotives disponibles pour planifier ce trajet",
+  "train-planner-no-enough-wagons-available": "Erreur: il n'y a pas assez de wagons disponibles pour planifier ce trajet",
+  "train-planner-no-enough-car-available": "Erreur: il n'y a pas assez de voitures disponibles pour planifier ce trajet"
 }

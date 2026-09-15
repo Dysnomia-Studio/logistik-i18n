@@ -8,5 +8,8 @@
   "train-planner-no-track-selected": "Error: you should select at least two train stations.",
   "railway-invalid-angles": "Railway angles are invalid, trains could not travel on this.",
   "railway-overlapping-station": "Railways shouldn't overlap with train stations without stopping in them.",
-  "railway-overlapping-water-body": "Railways shouldn't overlap with water bodies."
+  "railway-overlapping-water-body": "Railways shouldn't overlap with water bodies.",
+  "train-planner-no-enough-locomotives-available": "Error: no enough locomotives available to plan this journey",
+  "train-planner-no-enough-wagons-available": "Error: no enough wagons available to plan this journey",
+  "train-planner-no-enough-car-available": "Error: no enough train cars available to plan this journey"
 }
