@@ -6,8 +6,8 @@ This repo contains translations of Logistik, you can find the game on [Steam](ht
 
  |	Language |	Percentage |	achievements |	credits |	gameplay-errors |	menu |	quests |	store |
  |	--- |	--- |	--- |	--- |	--- |	--- |	--- |	--- |
- |	English |	100% |	0/0 |	5/5 |	13/13 |	21/21 |	11/11 |	3/3 |
- |	Francais |	100% |	0/0 |	5/5 |	13/13 |	21/21 |	11/11 |	3/3 |
+ |	English |	100% |	0/0 |	5/5 |	15/15 |	21/21 |	11/11 |	3/3 |
+ |	Francais |	100% |	0/0 |	5/5 |	15/15 |	21/21 |	11/11 |	3/3 |
 
 
  |	Language |	Percentage |	toolbelt |	ui |
