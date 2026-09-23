@@ -44,5 +44,9 @@
   "modal-no": "No",
   "demo-quit-game-modal-title": "Exiting game (demo)",
   "demo-quit-game-modal-message": "In this demo, there is no save feature. Quitting the game is permanent. Do you want to continue?",
-  "train-planner-cost": "Journey cost"
+  "train-planner-cost": "Journey cost",
+  "game-over-popup-title": "Game Over",
+  "game-over-popup-text-company-lost-money": "Your company has lost all its money.",
+  "game-over-popup-text-game-data": "<important>Time played:</important> {{day}} days and {{time}}",
+  "game-over-popup-text-demo-wishlist": "Thank you for playing this demo! Don't forget to share it with your friends and <important>💖 Wishlist on Steam</important>!"
 }

@@ -44,5 +44,9 @@
   "modal-no": "Non",
   "demo-quit-game-modal-title": "Quitter la partie (démo)",
   "demo-quit-game-modal-message": "Dans cette démo, aucun processus de sauvegarde n'est présent. Quitter la partie est définitif. Voulez-vous continuer?",
-  "train-planner-cost": "Cout par voyage"
+  "train-planner-cost": "Cout par voyage",
+  "game-over-popup-title": "Game Over",
+  "game-over-popup-text-company-lost-money": "Votre entreprise a perdu tout son argent.",
+  "game-over-popup-text-game-data": "<important>Temps joué:</important> {{day}} jours et {{time}}",
+  "game-over-popup-text-demo-wishlist": "Merci d'avoir joué à cette démo! N'oubliez pas de la partager avec vos amis et de <important>l'ajouter à votre liste de souhaits sur Steam 💖</important>!"
 }
