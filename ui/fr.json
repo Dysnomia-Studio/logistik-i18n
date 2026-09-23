@@ -37,11 +37,12 @@
   "rolling-stock-summary-buy-tooltip": "Acheter plus",
   "rolling-stock-summary-modal-buy-title": "Acheter plus de véhicules",
   "rolling-stock-summary-buy-one-for": "En acheter un de plus pour {{money}}",
+  "rolling-stock-summary-capacity": "Capacité du train",
   "planned-train-removal-modal-title": "Suppression de trajet",
   "planned-train-removal-modal-message": "Voulez-vous vraiment supprimer ce trajet?",
-  "rolling-stock-summary-capacity": "Capacité du train",
   "modal-yes": "Oui",
   "modal-no": "Non",
   "demo-quit-game-modal-title": "Quitter la partie (démo)",
-  "demo-quit-game-modal-message": "Dans cette démo, aucun processus de sauvegarde n'est présent. Quitter la partie est définitif. Voulez-vous continuer?"
+  "demo-quit-game-modal-message": "Dans cette démo, aucun processus de sauvegarde n'est présent. Quitter la partie est définitif. Voulez-vous continuer?",
+  "train-planner-cost": "Cout par voyage"
 }
