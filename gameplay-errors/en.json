@@ -14,6 +14,6 @@
   "train-planner-no-enough-car-available": "Error: no enough train cars available to plan this journey",
   "train-planner-no-wagons-in-train": "Error: no train wagon is present in this train to carry freight",
   "train-planner-no-car-in-train": "Error: no train car is present in this train to transport passengers",
-  "no-freight-platform-in-this-station": "Error: we cannot host passengers in this train station",
-  "no-passenger-platform-in-this-station": "Error: we cannot transfer freight from/to this train station"
+  "no-freight-platform-in-this-station": "Error: we cannot transfer freight from/to this train station",
+  "no-passenger-platform-in-this-station": "Error: we cannot host passengers in this train station"
 }
