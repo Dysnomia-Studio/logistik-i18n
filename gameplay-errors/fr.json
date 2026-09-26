@@ -13,5 +13,7 @@
   "train-planner-no-enough-wagons-available": "Erreur: il n'y a pas assez de wagons disponibles pour planifier ce trajet",
   "train-planner-no-enough-car-available": "Erreur: il n'y a pas assez de voitures disponibles pour planifier ce trajet",
   "train-planner-no-wagons-in-train": "Erreur: aucun wagon n'est présent dans ce train pour transporter du fret",
-  "train-planner-no-car-in-train": "Erreur: aucune voiture n'est présente dans ce train pour transporter des passagers"
+  "train-planner-no-car-in-train": "Erreur: aucune voiture n'est présente dans ce train pour transporter des passagers",
+  "no-freight-platform-in-this-station": "Erreur: cette gare ne peut héberger de passagers",
+  "no-passenger-platform-in-this-station": "Erreur: cette gare ne peut pas transférer du fret"
 }
