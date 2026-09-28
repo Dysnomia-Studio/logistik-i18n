@@ -22,6 +22,7 @@
   "loading": "Loading ...",
   "train-planned": "Train has been planned!",
   "file-explorer-opened": "File explorer has been opened!",
+  "rolling-stock-summary-random-name-button": "Regenerate<br/>train number",
   "rolling-stock-summary-locomotives": "Locomotives",
   "rolling-stock-summary-used-locomotives": "Used locomotives: {{amount}}",
   "rolling-stock-summary-available-locomotives": "Available ones: {{amount}}",
