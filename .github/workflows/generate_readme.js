@@ -120,7 +120,7 @@ Participate on the official [Translation Thread on Steam](${config.steamTranslat
 
 for (const language in config.languages) {
 	if (countersPerLanguage[language] === 0) {
-		README_Content += `- ${language} : ${config.languages[language]}\n`;
+		README_Content += `- ${language}: ${config.languages[language]}\n`;
 	}
 }
 
