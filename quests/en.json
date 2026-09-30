@@ -11,5 +11,5 @@
   "tutorial-planned-rolling-stock-title": "Tutorial #2 - Linking two cities together",
   "tutorial-planned-rolling-stock-description": "Now that <station>{{fromStation}}</station> and <station>{{toStation}}</station> are connected by a railroad line, it's time to run a train!<br/>\n<br/>\nTo do this, open the train scheduler in the left toolbar (or press the <kbd>P</kbd> key on your keyboard). Once the interface is open, click <station>{{fromStation}}</station> and then <station>{{toStation}}</station>. Finally, click the \"Create\" button.",
   "tutorial-buy-rolling-stock-title": "Tutorial #3 - You're out of rolling stock, buy more!",
-  "tutorial-buy-rolling-stock-description": "Looks like you're out of rollingstock. To check the amount used, total available and buy more, <important>check out the panel on the bottom left of the screen</important>.\n\nBy clicking on the \"<important>+</important>\" button, you can manage your current rolling stock.\n\nBuy more and get back to us!"
+  "tutorial-buy-rolling-stock-description": "It looks like you're out of rolling stock. How much is used, the total available and to buy more, <important>check the panel on the bottom left of the screen</important>.<br/>\n<br/>\nBy clicking the \"<important>+</important>\" button, you can manage your current rolling stock.<br/>\n<br/>\nBuy more and come back to us!"
 }
