@@ -45,7 +45,7 @@
   "modal-no": "Non",
   "demo-quit-game-modal-title": "Quitter la partie (démo)",
   "demo-quit-game-modal-message": "Dans cette démo, aucun processus de sauvegarde n'est présent. Quitter la partie est définitif. Voulez-vous continuer?",
-  "train-planner-cost": "Cout par voyage",
+  "train-planner-cost": "Cout du carburant",
   "game-over-popup-title": "Game Over",
   "game-over-popup-text-company-lost-money": "Votre entreprise a perdu tout son argent.",
   "game-over-popup-text-game-data": "<important>Temps joué:</important> {{day}} jours et {{time}}",
