@@ -49,5 +49,7 @@
   "game-over-popup-title": "Game Over",
   "game-over-popup-text-company-lost-money": "Votre entreprise a perdu tout son argent.",
   "game-over-popup-text-game-data": "<important>Temps joué:</important> {{day}} jours et {{time}}",
-  "game-over-popup-text-demo-wishlist": "Merci d'avoir joué à cette démo! N'oubliez pas de la partager avec vos amis et de <important>l'ajouter à votre liste de souhaits sur Steam 💖</important>!"
+  "game-over-popup-text-demo-wishlist": "Merci d'avoir joué à cette démo! N'oubliez pas de la partager avec vos amis et de <important>l'ajouter à votre liste de souhaits sur Steam 💖</important>!",
+  "tool-helper-press-escape-to-quit": "Appuyez sur <kbd>Echap</kbd> pour quitter cet outil.",
+  "tool-helper-press-right-click": " <kbd>Clic droit</kbd> pour terminer le placement."
 }
