@@ -51,5 +51,6 @@
   "game-over-popup-text-game-data": "<important>Time played:</important> {{day}} days and {{time}}",
   "game-over-popup-text-demo-wishlist": "Thank you for playing this demo! Don't forget to share it with your friends and <important>💖 Wishlist on Steam</important>!",
   "tool-helper-press-escape-to-quit": "Press <kbd>Escape</kbd> to quit this tool.",
-  "tool-helper-press-right-click": " <kbd>Right-click</kbd> to apply changes."
+  "tool-helper-press-right-click": " <kbd>Right-click</kbd> to apply changes.",
+  "splashscreen-message": "Made with 💖 by Elanis, with human hands only"
 }
