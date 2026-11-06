@@ -1,5 +1,6 @@
 {
   "no-enough-money": "Pas assez d'argent pour cela!",
+  "cannot-sell-vehicle": "Vous ne pouvez pas vendre de vehicule.",
   "station-too-close-to-another": "Impossible de créer une gare si proche d'une autre gare.",
   "planner-same-building": "Il n'est pas possible de choisir deux fois de suite le même bâtiment.",
   "planner-no-tracks-between-stations": "Aucun chemin direct n'existe entre les deux gares.",
