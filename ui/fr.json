@@ -33,6 +33,7 @@
   "rolling-stock-summary-used-cars": "Voitures utilisées: {{amount}}",
   "rolling-stock-summary-available-cars": "Voitures disponibles: {{amount}}",
   "rolling-stock-summary-buy-tooltip": "Acheter plus",
+  "rolling-stock-summary-sell-tooltip": "Vendre",
   "rolling-stock-summary-modal-buy-title": "Véhicules",
   "rolling-stock-summary-buy-one-for": "En acheter pour {{money}}",
   "rolling-stock-summary-sell-one-for": "En vendre pour {{money}}",
